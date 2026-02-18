@@ -16,12 +16,12 @@ To create a Hospital Emergency Room Analysis Dashboard in Power BI to improve ef
 <img width="1807" height="716" alt="Screenshot 2026-02-19 004101" src="https://github.com/user-attachments/assets/3d304d91-02ca-4f06-a613-e3ff7cbe1422" />
 
 ## 🛠 Tools & Technologies Used
-# Microsoft Excel
+## Microsoft Excel
 - Data Cleaning & Preprocessing
 - Pivot Tables & Pivot Charts
 - Slicers
 - Dashboard Design
-# Power BI
+## Power BI
 - Data Modeling
 - DAX (Data Analysis Expressions)
 - Interactive Reports & Visualizations
