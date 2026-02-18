@@ -22,7 +22,7 @@ To create a Hospital Emergency Room Analysis Dashboard in Power BI to improve ef
 -DAX (Data Analysis Expressions)
 -Interactive Reports & Visualizations
 
-##🚀 Skills Demonstrated
+## 🚀Skills Demonstrated
 -Data Cleaning & Transformation
 -Data Analysis
 -Dashboard Development
