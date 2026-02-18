@@ -30,3 +30,4 @@ To create a Hospital Emergency Room Analysis Dashboard in Power BI to improve ef
 -Data Visualization
 
 ## Dashboard
+<img width="1807" height="716" alt="Screenshot 2026-02-19 004101" src="https://github.com/user-attachments/assets/3d304d91-02ca-4f06-a613-e3ff7cbe1422" />
